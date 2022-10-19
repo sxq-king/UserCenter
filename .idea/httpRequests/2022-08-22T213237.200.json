@@ -1,0 +1,15 @@
+{
+  "id": 3,
+  "username": null,
+  "userAccount": "yupi",
+  "avatarUrl": null,
+  "gender": null,
+  "userPassword": null,
+  "phone": null,
+  "email": null,
+  "userStatus": 0,
+  "userRole": 0,
+  "createTime": "2022-08-22T11:08:37.000+00:00",
+  "updateTime": null,
+  "isDelete": null
+}

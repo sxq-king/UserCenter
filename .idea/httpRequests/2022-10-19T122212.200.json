@@ -1,0 +1,21 @@
+{
+  "code": 0,
+  "data": {
+    "id": 0,
+    "username": "dogsxq",
+    "userAccount": "dogsxq",
+    "avatarUrl": "https://sxq-king.github.io/assets/img/me.JPG",
+    "gender": null,
+    "userPassword": null,
+    "phone": null,
+    "email": null,
+    "userStatus": 0,
+    "userRole": 1,
+    "planetCode": "1",
+    "createTime": "2022-09-13T14:31:54.000+00:00",
+    "updateTime": null,
+    "isDelete": null
+  },
+  "message": "ok",
+  "description": ""
+}

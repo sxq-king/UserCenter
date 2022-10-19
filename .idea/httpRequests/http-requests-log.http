@@ -1,0 +1,367 @@
+POST http://localhost:9999/api/user/login
+Content-Type: application/json
+
+{
+  "userAccount": "dogsxq",
+  "userPassword": "12345678"
+}
+
+<> 2022-10-19T122212.200.json
+
+###
+
+GET http://localhost:9999/api/user/search
+
+<> 2022-10-19T121951.200.json
+
+###
+
+POST http://localhost:9999/api/user/login
+Content-Type: application/json
+
+{
+  "userAccount": "dogsxq",
+  "userPassword": "12345678"
+}
+
+<> 2022-10-19T121754.200.json
+
+###
+
+GET http://localhost:9999/api/user/search/dogsxq
+
+<> 2022-10-19T105702.404.json
+
+###
+
+GET http://localhost:9999/api/user/search
+
+<> 2022-10-19T105616.200.json
+
+###
+
+GET http://localhost:9999/api/user/search
+
+<> 2022-10-19T105346.200.json
+
+###
+
+POST http://localhost:8080/api/user/login
+Content-Type: application/json
+
+{
+  "userAccount": "root",
+  "userPassword": "12345678"
+}
+
+###
+
+POST http://localhost:8080/api/user/login
+Content-Type: application/json
+
+{
+  "userAccount": "yupi",
+  "userPassword": "12345678"
+}
+
+<> 2022-09-13T212337.200.json
+
+###
+
+POST http://localhost:8080/api/user/login
+Content-Type: application/json
+
+{
+  "userAccount": "root",
+  "userPassword": "12345678"
+}
+
+###
+
+POST http://localhost:8080/api/user/login
+Content-Type: application/json
+
+{
+  "userAccount": "root",
+  "userPassword": "12345678",
+  "checkPassword": "12345678"
+}
+
+###
+
+POST http://localhost:8080/api/user/login
+Content-Type: application/json
+{:
+  "userAccount": "root",
+  "userPassword": "12345678",
+  "checkPassword": "12345678"
+}:
+
+<> 2022-09-13T212300.400.html
+
+###
+
+POST http://localhost:8080/api/user/login
+Content-Type: application/json
+{:
+  "userAccount": "root",
+  "userPassword": "12345678",
+  "checkPassword": "12345678"
+}:
+
+<> 2022-09-13T212253.400.html
+
+###
+
+POST http://localhost:8080/api/user/login
+Content-Type: application/json
+
+{
+  "userAccount": "",
+  "userPassword": "12345678"
+}
+
+###
+
+POST http://localhost:8080/api/user/login
+Content-Type: application/json
+
+{"userAccount": "root",
+  "userPassword": "12345678",
+"checkPassword":"12345678"}
+
+###
+
+POST http://localhost:8080/api/user/register
+Content-Type: application/json
+
+{"userAccount": "king",
+"userPassword": "12345678",
+"checkPassword": "12345678"}
+
+<> 2022-09-13T211937.200.json
+
+###
+
+POST http://localhost:8080/api/user/login
+Content-Type: application/json
+
+{"userAccount": "root",
+  "userPassword": "12345678",
+"checkPassword":"12345678"}
+
+###
+
+POST http://localhost:8080/api/user/login
+Content-Type: application/json
+
+{"userAccount": "root",
+  "userPassword": "12345678"}
+
+###
+
+POST http://localhost:8080/api/user/login
+Content-Type: application/json
+
+{"userAccount": "root",
+"userPassword": "12345678"}
+
+###
+
+POST http://localhost:8080/api/user/login
+Content-Type: application/json
+
+{"userAccount": "root",
+"userPassword": "12345678"}
+
+###
+
+POST http://localhost:8080/api/user/login
+Content-Type: application/json
+
+{"userAccount": "root",
+"userPassword": "12345678"}
+
+###
+
+POST http://localhost:8080/api/user/login
+Content-Type: application/json
+
+{"userAccount": "root",
+"userPassword": "12345678"}
+
+###
+
+POST http://localhost:8080/api/user/login
+Content-Type: application/json
+
+{"userAccount": "dogyupi",
+"userPassword": "12345678"}
+
+<> 2022-09-13T211303.200.json
+
+###
+
+POST http://localhost:8080/api/user/register
+Content-Type: application/json
+
+{"userAccount": "root",
+"userPassword": "12345678",
+"checkPassword": "12345678"}
+
+<> 2022-09-13T171415.200.json
+
+###
+
+POST http://localhost:8080/api/user/register
+Content-Type: application/json
+
+{"userAccount": "root",
+"userPassword": "12345678"}
+
+###
+
+POST http://localhost:8080/api/user/register
+Content-Type: application/json
+
+{"userAccount": "root",
+"userPassword": "12345678"}
+
+###
+
+POST http://localhost:8080/api/user/register
+Content-Type: application/json
+
+{"userAccount": "root",
+"userPassword": "12345678"}
+
+###
+
+POST http://localhost:8080/api/user/login
+Content-Type: application/json
+
+{"userAccount": "dogyupi",
+"userPassword": "12345678"}
+
+<> 2022-09-13T163157.200.json
+
+###
+
+POST http://localhost:8080/api/user/login
+Content-Type: application/json
+
+{"userAccount": "dogyupi",
+"userPassword": "12345678"}
+
+<> 2022-09-13T163050.200.json
+
+###
+
+POST http://localhost:8080/api/user/login
+Content-Type: application/json
+
+{"userAccount": "userPassword",
+"userPassword": "userPassword"}
+
+###
+
+POST http://localhost:8080/user/register
+
+<> 2022-09-13T163010.404.html
+
+###
+
+POST http://localhost:8080/api/user/login
+Content-Type: application/json
+
+{"userAccount": "userPassword",
+"userPassword": "userPassword"}
+
+###
+
+POST http://localhost:80/api/user/login
+Content-Type: application/json
+
+{"userAccount": "userPassword",
+"userPassword": "userPassword"}
+
+###
+
+GET http://localhost:8080/user/search
+
+<> 2022-09-13T162800.404.html
+
+###
+
+GET http://localhost:8080/user/search
+
+<> 2022-09-13T162636.404.html
+
+###
+
+GET http://localhost:8080/api/user/search
+
+<> 2022-09-13T162552.200.json
+
+###
+
+GET http://localhost:8080/api/user/search
+
+<> 2022-09-13T162525.200.json
+
+###
+
+GET http://localhost:8080/user/search
+
+<> 2022-09-13T162456.404.html
+
+###
+
+POST http://localhost:8080/api/user/login
+
+<> 2022-09-13T162430.400.json
+
+###
+
+POST http://localhost:8080/user/login
+
+<> 2022-09-13T162415.404.html
+
+###
+
+GET http://localhost:8080/user/search
+
+<> 2022-08-22T213717.200.json
+
+###
+
+POST http://localhost:8080/user/login
+Content-Type: application/json
+
+{
+  "userAccount": "yupi",
+  "userPassword": 12345678
+}
+
+<> 2022-08-22T213649.200.json
+
+###
+
+GET http://localhost:8080/user/search
+
+<> 2022-08-22T213304.200.json
+
+###
+
+POST http://localhost:8080/user/login
+Content-Type: application/json
+
+{
+  "userAccount": "yupi",
+  "userPassword": 12345678
+}
+
+<> 2022-08-22T213237.200.json
+
+###
+

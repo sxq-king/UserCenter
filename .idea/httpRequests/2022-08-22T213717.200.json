@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "username": "test",
+    "userAccount": "123",
+    "avatarUrl": "https://images.zsxq.com/FmC_3tHKD4X8j3Ur_UBUKreOohuT?e=1664553599&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:yFIoBcQ5v2soSeHth2rjbQ-3850=",
+    "gender": 0,
+    "userPassword": "xxx",
+    "phone": "123",
+    "email": "456",
+    "userStatus": 0,
+    "userRole": 0,
+    "createTime": "2022-08-22T01:09:57.000+00:00",
+    "updateTime": "2022-08-22T01:09:57.000+00:00",
+    "isDelete": 0
+  },
+  {
+    "id": 2,
+    "username": null,
+    "userAccount": "dogyupi",
+    "avatarUrl": null,
+    "gender": null,
+    "userPassword": "6361554c7ed898ab5ad7e38531415566",
+    "phone": null,
+    "email": null,
+    "userStatus": 0,
+    "userRole": 0,
+    "createTime": "2022-08-22T11:08:02.000+00:00",
+    "updateTime": "2022-08-22T11:08:02.000+00:00",
+    "isDelete": 0
+  },
+  {
+    "id": 3,
+    "username": null,
+    "userAccount": "yupi",
+    "avatarUrl": null,
+    "gender": null,
+    "userPassword": "6361554c7ed898ab5ad7e38531415566",
+    "phone": null,
+    "email": null,
+    "userStatus": 0,
+    "userRole": 1,
+    "createTime": "2022-08-22T11:08:37.000+00:00",
+    "updateTime": "2022-08-22T11:08:37.000+00:00",
+    "isDelete": 0
+  }
+]
